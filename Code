@@ -4,7 +4,8 @@
 	var names = new Array(10);
 	
 	names[0] = "Gustavo Dias";
-	alert("Hello "+ names[0]);
+	names[1] = "Schyler";
+	alert("Hello "+ names[0]+ names[1]);
 </script>
 
 </html>
